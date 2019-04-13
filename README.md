@@ -14,9 +14,9 @@ pod 'XZKit/CarouselView'
 
 ## 效果
 
-![XZImageCarouselViews示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/1.gif) 
-![XZImageViewer示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/2.gif)  
-![XZCarouselViewController示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/3.gif)
+<img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/1.gif" alt="XZKit.CarouselView" width="240"></img>
+<img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/2.gif" alt="XZKit.CarouselView" width="240"></img>
+<img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/3.gif" alt="XZKit.CarouselView" width="240"></img>
 
 ## [示例代码](https://github.com/mlibai/XZKit/tree/master/Projects/Example/CarouselViewExample)
 
