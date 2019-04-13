@@ -4,13 +4,13 @@
 
 ## 安装
 
-请使用 [CocoaPods](https://cocoapods.org/) 引用本组件：
+支持 [CocoaPods](https://cocoapods.org/) ，`XZCarouselView` 现在是 [XZKit](https://github.com/mlibai/XZKit) 框架的子模块，引用本组件，请使用如下命令：
 
 ```ruby
 pod 'XZKit/CarouselView'
 ```
 
-`XZCarouselView` 现在是 [XZKit](https://github.com/mlibai/XZKit) 框架的子模块。如果没有安装 CocoaPods 那就得去 [GitHub](https://github.com/mlibai/XZKit) 下载源代码了。
+
 
 ## 说明
 
