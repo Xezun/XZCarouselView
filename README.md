@@ -2,6 +2,13 @@
 
 @[TOC](目录)
 
+## 安装
+对于 iOS 第三方，支持 [CocoaPods](https://cocoapods.org/) 是必须的：
+```ruby
+pod 'XZKit/CarouselView'
+```
+`XZCarouselView` 现在是 [XZKit](https://github.com/mlibai/XZKit) 框架的子模块，如果没有安装 CocoaPods 那就得去 [GitHub](https://github.com/mlibai/XZKit) 下载源代码了。
+
 ## 说明
 轮播图在 iOS 开发中属于常见需求，虽然第三方实现很多，但是真正让人满意的并不多。因此，组件 `XZCarouselView` 是我很早以前就开始写的一个组件，在经历过数次的优化、重构之后，我终于觉得能拿得出手，分享给大家一起使用。以后可能会有更多的组件分享出来，为了方便管理，组件 `XZCarouselView` 现在是 `XZKit` 模块之一，无其它依赖，可以单独引用。
 
@@ -10,13 +17,6 @@
 <img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/1.gif" alt="XZKit.CarouselView" width="240"></img>
 <img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/2.gif" alt="XZKit.CarouselView" width="240"></img>
 <img src="https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/3.gif" alt="XZKit.CarouselView" width="240"></img>
-
-## 安装
-对于 iOS 第三方，支持 [CocoaPods](https://cocoapods.org/) 是必须的：
-```ruby
-pod 'XZKit/CarouselView'
-```
-`XZCarouselView` 现在是 [XZKit](https://github.com/mlibai/XZKit) 框架的子模块，如果没有安装 CocoaPods 那就得去 [GitHub](https://github.com/mlibai/XZKit) 下载源代码了。
 
 ## 特性
 `XZCarouselView ` 为 `CarouselView` 模块中的基础类，提供轮播图机制，方便再封装和自定义，当然也可以直接使用。`CarouselView` 中的图片轮播图 `XZImageCarouselView` 组件、大图查看器 `XZImageViewer` 组件、多控制器容器 `XZCarouselViewController`  都是基于类 `XZCarouselView` 来实现的。
