@@ -9,7 +9,11 @@
 ```ruby
 pod 'XZKit/CarouselView'
 ```
+
+请移步 [XZKit/CarouselView](https://github.com/mlibai/XZKit/tree/master/Documentation/CarouselView) 查看更多特性！
+
 ## 效果
+
 ![XZImageCarouselViews示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/1.gif) 
 ![XZImageViewer示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/2.gif)  
 ![XZCarouselViewController示例](https://github.com/mlibai/XZKit/raw/master/Documentation/CarouselView/3.gif)
